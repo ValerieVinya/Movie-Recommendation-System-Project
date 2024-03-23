@@ -12,8 +12,8 @@ This project aims to develop a recommendation system for movies using the MovieL
 - [Evaluation](#evaluation)
 - [Conclusion and Recommendations](#conclusion-and-recommendations)
 
-## Project Structure
-- `data/`: Contains the MovieLens dataset.
+## Data
+- [MovieLens](https://grouplens.org/datasets/movielens/latest/) : Contains the MovieLens dataset.
 
 ## Data Preprocessing
 The dataset is preprocessed to handle duplicates, missing values, and format the data for modeling.
@@ -46,6 +46,6 @@ Exploratory data analysis is conducted to understand user behavior, movie charac
 The project successfully developed a movie recommendation system using collaborative filtering, content-based filtering, and hybrid approaches. Insights were gained into user behavior, movie characteristics, and recommendation techniques. Challenges such as the cold-start problem were addressed, and various methods to improve recommendation accuracy were explored.
 
 ### Recommendations
-Based on the findings, recommendations for further improvement include enhancing data quality, exploring advanced techniques, fine-tuning hybrid models, addressing cold-start challenges, focusing on personalization and diversity, encouraging user engagement and feedback, optimizing scalability and performance, and ensuring ethical considerations.
+Based on the findings, recommendations for further improvement include enhancing data quality, exploring advanced techniques, fine-tuning hybrid models and, addressing cold-start challenges.
 
 By implementing these recommendations, the movie recommendation system can be further enhanced to provide a valuable and engaging experience for users.
