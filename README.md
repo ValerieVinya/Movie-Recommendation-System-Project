@@ -1,5 +1,7 @@
 # Movie-Recommendation-System-Project
-![Movie recommendations!](https://images.app.goo.gl/QUP8K11karnunNnY9)
+<p align="center">
+  <img src="https://github.com/ValerieVinya/Movie-Recommendation-System-Project/blob/main/Movie%20recommendations.jpeg?raw=true" alt="Movie recommendations" width="400">
+</p>
 
 ## Overview
 This project aims to develop a recommendation system for movies using the MovieLens dataset. The system leverages collaborative filtering, content-based filtering, and hybrid approaches to provide personalized movie recommendations to users based on their past ratings and preferences.
