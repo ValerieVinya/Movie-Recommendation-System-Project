@@ -1,11 +1,12 @@
 # Movie-Recommendation-System-Project
+![Movie recommendations!](https://images.app.goo.gl/QUP8K11karnunNnY9)
 
 ## Overview
 This project aims to develop a recommendation system for movies using the MovieLens dataset. The system leverages collaborative filtering, content-based filtering, and hybrid approaches to provide personalized movie recommendations to users based on their past ratings and preferences.
 
 ## Table of Contents
 - [Overview](#overview)
-- [Project Structure](#project-structure)
+- [Data](#data)
 - [Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Building Models](#building-models)
@@ -14,6 +15,7 @@ This project aims to develop a recommendation system for movies using the MovieL
 
 ## Data
 - [MovieLens](https://grouplens.org/datasets/movielens/latest/) : Contains the MovieLens dataset.
+- This dataset was obtained from the GroupLens research lab at the University of Minnesota.
 
 ## Data Preprocessing
 The dataset is preprocessed to handle duplicates, missing values, and format the data for modeling.
